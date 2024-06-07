@@ -1,0 +1,45 @@
+# Maven
+/target/
+
+# Gradle
+/build/
+.gradle/
+
+# Node.js
+/node_modules/
+
+# Eclipse
+.project
+.classpath
+.settings/
+.apt_generated/
+.factorypath
+.recommenders/
+.springBeans
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+
+# Compiled class file
+*.class
+
+# 기타 설정 파일
+.env
+*.properties
+*.xml
